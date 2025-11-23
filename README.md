@@ -19,24 +19,9 @@ This project is a food ordering application built using **Flutter** for the fron
 - **Zalo Pay Payments**: Supports payment processing using Zalo Pay.
 - **Statistical Analysis**: Provides statistical insights into orders, revenue, and user preferences.
 
-## 🛠️ Getting Started
-1. **Prerequisites**: Ensure you have **Flutter**, **Spring Boot**, and **PostgreSQL** installed on your system.
-2. **Clone the Repository**: `git clone https://github.com/your-backend-repo`
-3. **Set up Frontend**: Clone and set up the frontend repository. Refer to the frontend README for specific instructions.
-4. **Configure Backend**: Set up the Spring Boot backend and configure the PostgreSQL database connection.
-5. **Start the Backend**: Run the Spring Boot application.
-6. **Start the Frontend**: Launch the Flutter application.
+
 
 ## ⚙️ API Endpoints
 - `/dishes`: CRUD operations for managing dishes.
 - `/orders`: Endpoint for placing orders.
-- `/payments`: Endpoint for processing payments via Zalo Pay.
 - `/statistics`: Endpoint for accessing statistical data.
-
-## 📖 Usage
-- Users can browse the menu, select dishes, and place orders.
-- Admins can create new dishes and manage orders.
-- Ensure proper authentication and authorization mechanisms are implemented for secure access.
-
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
