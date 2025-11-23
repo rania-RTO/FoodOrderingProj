@@ -15,7 +15,6 @@ This project is a food ordering application built using **Flutter** for the fron
 - **Recommendation System**: Utilizes a content-based filtering system to recommend dishes based on user preferences.
 - **Create Dish**: Admins can create new dishes to be added to the menu.
 - **Create Group Options**: Users can create group orders with customizable options.
-- **Zalo Pay Payments**: Supports payment processing using Zalo Pay.
 - **Statistical Analysis**: Provides statistical insights into orders, revenue, and user preferences.
 
 
