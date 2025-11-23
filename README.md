@@ -1,15 +1,14 @@
 # 🍽️ Food Ordering Application
 
 ## 📝 Overview
-This project is a food ordering application built using **Flutter** for the frontend, **Spring Boot** for the backend, and **PostgreSQL** for the database. It allows users to order food online and includes a recommendation system based on user preferences using content-based filtering. Additionally, it supports payments via **Zalo Pay** and provides statistical analysis.
+This project is a food ordering application built using **Flutter** for the frontend, **Spring Boot** for the backend, and **PostgreSQL** for the database. It allows users to order food online and includes a recommendation system based on user preferences using content-based filtering. Additionally, it provides statistical analysis.
 
 ## 💻 Technologies Used
 - **Flutter**
 - **Spring Boot**
 - **PostgreSQL**
 
-## 🚀 Frontend GitHub Link
-- Explore the frontend repository https://github.com/vocongbinh/food_delivery_app
+
 
 ## ✨ Features
 - **Ordering System**: Users can browse and order food items online.
